@@ -35,5 +35,3 @@ Console.WriteLine("{0} $  = {1} AMD", dollar_amount, dram);
 
 
 Console.ReadKey();
-
-////////////////////////
