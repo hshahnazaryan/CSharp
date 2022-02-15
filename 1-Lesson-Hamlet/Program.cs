@@ -30,6 +30,6 @@ dollar_amount = Convert.ToDouble(Console.ReadLine());
 
 dram = (int)(dollar_amount * cur);
 
-Console.WriteLine("{0} $  = {1} AMD", dollar_amount, dram);
+Console.WriteLine("{0} $ = {1} AMD", dollar_amount, dram);
 
 Console.ReadKey();
