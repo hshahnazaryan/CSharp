@@ -16,12 +16,11 @@ number = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Արդյունք :{0}", number);
 
 
-string name, sname;
 Console.Write("Անուն:");
-name = Console.ReadLine();
+string? name = Console.ReadLine();
 Console.Write("Ազգանուն:");
-sname = Console.ReadLine();
-Console.WriteLine("Ողջույն :{0}", name + " " + sname);
+string? sname = Console.ReadLine();
+Console.WriteLine("Ողջույն :{0}", $"{name} {sname}");
 
 double dollar_amount, dram;
 int cur = 495;

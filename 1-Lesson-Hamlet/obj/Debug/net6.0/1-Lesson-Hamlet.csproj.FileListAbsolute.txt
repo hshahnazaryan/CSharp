@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\bin\Debug\net6.0\1-Lesson-Hamlet.exe
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\bin\Debug\net6.0\1-Lesson-Hamlet.deps.json
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\bin\Debug\net6.0\1-Lesson-Hamlet.runtimeconfig.json
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\bin\Debug\net6.0\1-Lesson-Hamlet.dll
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\bin\Debug\net6.0\ref\1-Lesson-Hamlet.dll
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\bin\Debug\net6.0\1-Lesson-Hamlet.pdb
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\obj\Debug\net6.0\1-Lesson-Hamlet.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\obj\Debug\net6.0\1-Lesson-Hamlet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\obj\Debug\net6.0\1-Lesson-Hamlet.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\obj\Debug\net6.0\1-Lesson-Hamlet.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\obj\Debug\net6.0\1-Lesson-Hamlet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\obj\Debug\net6.0\1-Lesson-Hamlet.dll
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\obj\Debug\net6.0\ref\1-Lesson-Hamlet.dll
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\obj\Debug\net6.0\1-Lesson-Hamlet.pdb
+C:\Users\User\source\repos\CSharp\Statge1\1-Lesson-Hamlet\obj\Debug\net6.0\1-Lesson-Hamlet.genruntimeconfig.cache
