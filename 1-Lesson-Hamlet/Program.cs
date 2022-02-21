@@ -15,7 +15,6 @@ number = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Արդյունք :{0}", number);
 
-
 Console.Write("Անուն:");
 string? name = Console.ReadLine();
 Console.Write("Ազգանուն:");
