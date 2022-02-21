@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\bin\Debug\net6.0\4-Loops.exe
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\bin\Debug\net6.0\4-Loops.deps.json
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\bin\Debug\net6.0\4-Loops.runtimeconfig.json
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\bin\Debug\net6.0\4-Loops.dll
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\bin\Debug\net6.0\ref\4-Loops.dll
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\bin\Debug\net6.0\4-Loops.pdb
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\obj\Debug\net6.0\4-Loops.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\obj\Debug\net6.0\4-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\obj\Debug\net6.0\4-Loops.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\obj\Debug\net6.0\4-Loops.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\obj\Debug\net6.0\4-Loops.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\obj\Debug\net6.0\4-Loops.dll
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\obj\Debug\net6.0\ref\4-Loops.dll
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\obj\Debug\net6.0\4-Loops.pdb
+C:\Users\User\source\repos\CSharp\Statge1\4-Loops\obj\Debug\net6.0\4-Loops.genruntimeconfig.cache
