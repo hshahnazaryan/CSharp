@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-Lesson-Hamlet", "1-Lesson-Hamlet\1-Lesson-Hamlet.csproj", "{F7671A0E-4750-4F40-8FCB-DEAD61C1F3DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataType", "DataType\DataType.csproj", "{47604057-64F0-4906-AFCC-9678CC248EC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataType", "DataType\DataType.csproj", "{47604057-64F0-4906-AFCC-9678CC248EC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Loops", "4-Loops\4-Loops.csproj", "{CAACD935-1886-4014-80CD-FF9761C7D601}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{47604057-64F0-4906-AFCC-9678CC248EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47604057-64F0-4906-AFCC-9678CC248EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47604057-64F0-4906-AFCC-9678CC248EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAACD935-1886-4014-80CD-FF9761C7D601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAACD935-1886-4014-80CD-FF9761C7D601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAACD935-1886-4014-80CD-FF9761C7D601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAACD935-1886-4014-80CD-FF9761C7D601}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
