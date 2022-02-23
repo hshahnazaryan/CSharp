@@ -99,5 +99,4 @@ Console.WriteLine(a.ToString());
 string[] cars = new string[4] { "Volvo", "BmW", "Opel", "Nissan" };
 int cc = cars.GetLength(0);
 
-
 Console.WriteLine(cars[4]);
