@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataType", "DataType\DataTy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-Loops", "4-Loops\4-Loops.csproj", "{CAACD935-1886-4014-80CD-FF9761C7D601}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-Arrays", "5-Arrays\5-Arrays.csproj", "{03919507-BA2F-4CCF-987A-63902CF24CB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-Arrays", "5-Arrays\5-Arrays.csproj", "{03919507-BA2F-4CCF-987A-63902CF24CB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Methods", "8-Methods\8-Methods.csproj", "{D6AC29A1-C503-418A-AA48-6CFBF8BB7861}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{03919507-BA2F-4CCF-987A-63902CF24CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03919507-BA2F-4CCF-987A-63902CF24CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03919507-BA2F-4CCF-987A-63902CF24CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6AC29A1-C503-418A-AA48-6CFBF8BB7861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AC29A1-C503-418A-AA48-6CFBF8BB7861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AC29A1-C503-418A-AA48-6CFBF8BB7861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AC29A1-C503-418A-AA48-6CFBF8BB7861}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

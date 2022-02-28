@@ -20,7 +20,12 @@
       "ProjectGuid": "caacd935-1886-4014-80cd-ff9761c7d601",
       "DisplayName": "4-Loops",
       "ColorIndex": 2
+    },
+    "03919507-ba2f-4ccf-987a-63902cf24cb5": {
+      "ProjectGuid": "03919507-ba2f-4ccf-987a-63902cf24cb5",
+      "DisplayName": "5-Arrays",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
