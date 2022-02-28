@@ -25,7 +25,12 @@
       "ProjectGuid": "03919507-ba2f-4ccf-987a-63902cf24cb5",
       "DisplayName": "5-Arrays",
       "ColorIndex": 3
+    },
+    "d6ac29a1-c503-418a-aa48-6cfbf8bb7861": {
+      "ProjectGuid": "d6ac29a1-c503-418a-aa48-6cfbf8bb7861",
+      "DisplayName": "8-Methods",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
