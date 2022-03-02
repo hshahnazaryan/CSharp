@@ -30,7 +30,12 @@
       "ProjectGuid": "d6ac29a1-c503-418a-aa48-6cfbf8bb7861",
       "DisplayName": "8-Methods",
       "ColorIndex": 4
+    },
+    "55191b8a-a479-4448-9930-623008d1e427": {
+      "ProjectGuid": "55191b8a-a479-4448-9930-623008d1e427",
+      "DisplayName": "9-Recursion",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
