@@ -4,6 +4,7 @@
     static bool prost = true;
     static int k = 2;
     static int n;
+    static int count = 0;
     static void Main(string[] args)
     {
         //Console.WriteLine((int)aaa.Monday);
@@ -18,9 +19,11 @@
 
         //var t = factorial(5);
         //Console.WriteLine(t);
-        Console.WriteLine(a(1));
-        string str = Console.ReadLine();
-        PrintReverse(str);
+        
+
+        //Console.WriteLine(a(1));
+        //string str = Console.ReadLine();
+        //PrintReverse(str);
 
 
         Console.WriteLine("Enter number\n");
@@ -31,8 +34,9 @@
         else Console.WriteLine("Not prime");
 
         Console.ReadKey();
-    }
 
+
+    }
     public static int a(int ab)
     {
         int c;
@@ -59,14 +63,22 @@
 
     static void Func(int k)
     {
-        if (k < (n / 2))
-            if (n % k == 0)
-                prost = false;
-            else
-            {
-                k++;
-                Func(k);
-            }
+        if (n == k)
+        {
+            Console.WriteLine(count);
+            return;
+        }
+        if (n % k == 0)
+        {
+            k++;
+            Func(k);
+        }
+        else
+        {
+            count++;
+            k++;
+            Func(k);
+        }
     }
 
     //public static int NthFibonacciNumber(int n)
